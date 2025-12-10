@@ -29,7 +29,7 @@ dim_study (Study Hours, Attendance, Tutoring, etc.)
 dim_behavior (Motivation, Activities, Sleep, Social Influence, etc.)
 
 ## 📈  Key Insights & Findings
-###🔹 High-Performance Students (Score ≥ 85)
+### 🔹 High-Performance Students (Score ≥ 85)
 
 School attendance (avg. 81%) and weekly study time (avg. 20 hours) show the strongest correlations with performance (0.58 and 0.45).
 
@@ -39,7 +39,7 @@ School attendance (avg. 81%) and weekly study time (avg. 20 hours) show the stro
 
 Motivation alone was not a significant isolated predictor.
 
-###🔹 Categorical Variables
+### 🔹 Categorical Variables
 
 School type: 71% of high performers are from public schools.
 
@@ -47,7 +47,7 @@ Gender: Balanced (53% male, 47% female).
 
 Financial condition: Performance is not concentrated in a single income group.
 
-###🔹 Numerical Variables Summary
+### 🔹 Numerical Variables Summary
 
 | Variable           | Avg (High Performers) | Insight |
 |-------------------|------------------------|--------|
@@ -58,7 +58,7 @@ Financial condition: Performance is not concentrated in a single income group.
 | Previous Grades   | 75                     | Low predictable power |
 
 
-##📊 Visual Analytics
+## 📊 Visual Analytics
 
 Implemented using SQL and Python (Pandas, Seaborn, Matplotlib):
 
@@ -68,7 +68,7 @@ Stacked bar charts for categorical proportions
 
 Correlation heatmaps for predictor evaluation
 
-##🧪 Tools & Technologies
+## 🧪 Tools & Technologies
 
 Databricks Notebooks
 
@@ -82,6 +82,6 @@ Dimensional Modeling (Star Schema)
 
 Bronze / Silver / Gold structured pipeline
 
-##🧠 Conclusion
+## 🧠 Conclusion
 
 The analysis indicates that achieving high performance depends primarily on consistent school attendance, effective study time, and a supportive social context. Factors like motivation or income, while influential, were not decisive predictors on their own.
