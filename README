@@ -1,8 +1,8 @@
-🎓# Student Performance Analytics – Dimensional Modeling & Data Insights
+# 🎓 Student Performance Analytics – Dimensional Modeling & Data Insights
 
 Investigate which individual and contextual characteristics are associated with high student performance (score ≥ 85) using dimensional modeling, statistical analysis, and interactive visualizations to support data-driven educational decisions.
 
-🧱 #Project Architecture
+# 🧱 Project Architecture
 
 Designed following a Lakehouse architecture with a multi-layer data pipeline:
 
@@ -12,7 +12,7 @@ Silver – Cleaning, preprocessing, and dimensional modeling (star schema)
 
 Gold – Curated analytical datasets optimized for BI dashboards and exploratory analytics
 
-🗃️# Dimensional Modeling (Star Schema)
+# 🗃️ Dimensional Modeling (Star Schema)
 
 Fact Table
 
