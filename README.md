@@ -14,11 +14,11 @@ Gold – Curated analytical datasets optimized for BI dashboards and exploratory
 
 ## 🗃️ Dimensional Modeling (Star Schema)
 
-Fact Table
+- Fact Table
 
 fact_student_performance: stores student scores with keys linking to dimension tables.
 
-Dimension Tables
+- Dimension Tables
 
 dim_student (Gender, Financial Status, Parental Support, etc.)
 
@@ -31,21 +31,21 @@ dim_behavior (Motivation, Activities, Sleep, Social Influence, etc.)
 ## 📈  Key Insights & Findings
 ### 🔹 High-Performance Students (Score ≥ 85)
 
-School attendance (avg. 81%) and weekly study time (avg. 20 hours) show the strongest correlations with performance (0.58 and 0.45).
+ - School attendance (avg. 81%) and weekly study time (avg. 20 hours) show the strongest correlations with performance (0.58 and 0.45).
 
-85% of top students do not report learning difficulties.
+ - 85% of top students do not report learning difficulties.
 
-82% were influenced in a positive or neutral way by their environment.
+ - 82% were influenced in a positive or neutral way by their environment.
 
-Motivation alone was not a significant isolated predictor.
+--> Motivation alone was not a significant isolated predictor.
 
 ### 🔹 Categorical Variables
 
-School type: 71% of high performers are from public schools.
+ - School type: 71% of high performers are from public schools.
 
-Gender: Balanced (53% male, 47% female).
+ - Gender: Balanced (53% male, 47% female).
 
-Financial condition: Performance is not concentrated in a single income group.
+ - Financial condition: Performance is not concentrated in a single income group.
 
 ### 🔹 Numerical Variables Summary
 
